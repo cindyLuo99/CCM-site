@@ -1,19 +1,13 @@
 # Obtaining the Homework
 
-If you are using the university provided Jupyter instance ([here](https://dsga-1016-spring.rcnyu.org)) 
-rather than your own personal computer the homeworks and other materials will automatically download into a folder in your account
-called `class_materials` each time you login.
+If you are using the university provided Jupyter instance ([here](https://dsgs-3001006-spring.rcnyu.org/)) 
+rather than your own personal computer, the homeworks are stored in the folder `class_materials.` This folder will update every time you log in with any new homeworks or changes.
 
 ## Working on the files on the JupyterHub
 
-The entire `class_materials` folder is read-only so that your work is not accidently overwritten.  Thus, you need to copy the files out of this folder to work on them.
+You can load the homework by clicking on `class_materials/homeworks/homework-NeuralNet` (or whatever the name is) in the top directory of your JupyterHub instance.
 
-For example, to work on the first homework you would need to copy the files from `class_materials/homeworks/homework-NeuralNet`.  To do this selected "New" and then "Terminal" from the file browser interface.  Then type
-`cp -r class_materials/homeworks/homework-NeuralNet ./homework-NeuralNet`.  This will copy all the files into position.  You will need to change the folder name of the homework for other homeworks of course.
-
-Then you can open them from the `homework-NeuralNet` (or whatever the name is) in the top directory of your JupyterHub instance.
-
-**IMPORTANT**: When you use notebooks on the NYU Jupyterhub you need to change the default kernel of the notebook.  First open a notebook.  Then selected "Kernel" from the menu bar.  Then select "Change Kernel" and then select "Python \[conda env:cognition\]" from the list.  Otherwise your python environment may not have the necessary packages to do the homework.  In any case please always verify that the current notebook you are running says "Python \[conda env:cognition\]" in the upper right corner of the interface.
+**IMPORTANT**: When you use notebooks on the NYU Jupyterhub you need to change the default kernel of the notebook.  First open a notebook.  Then selected "Kernel" from the menu bar.  Then select "Change Kernel" and then select "Python \[conda env:CCM2023\]" from the list.  Otherwise your python environment may not have the necessary packages to do the homework.  In any case please always verify that the current notebook you are running says "Python \[conda env:CCM2023\]" in the upper right corner of the interface.
 
 If you are running your own Jupyter instance use the following instructions to download
 the homeworks.
