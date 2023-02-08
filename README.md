@@ -71,7 +71,7 @@ Live lectures are
 ([slides](slides/lecture-02-neural_nets.pdf))
   - Homework 1 assigned (Due 2/13) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Feb. 6: Neural networks / Deep learning (part 2)
-<!-- ([slides](slides/lecture-03-neural_nets.pdf)) -->
+([slides](slides/lecture-03-neural_nets.pdf))
 - Mon. Feb. 13: Reinforcement learning (part 1)
 <!-- ([slides](slides/lecture-04-reinforcementlearning.pdf)) -->
 - Mon. Feb. 20: No class, Presidents' Day
