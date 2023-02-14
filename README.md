@@ -10,14 +10,14 @@
 **Labs.** 
 Tuesdays 12:30-1:20PM in Silver Room 405. Masks are always welcome in class.
 
-**Brightspace access for waitlist and auditors.** We won't need brightspace for anything except lab recordings. If you feel you need brightspace access and don't have it, please add your email to this [spreadsheet](https://docs.google.com/spreadsheets/d/12xuNgQ17GiTM6W4GulXkqF78kbR8qX-MFooYcPksUQ0/edit?usp=sharing). We will add the emails from the spreadsheet periodically.
+**Brightspace access for waitlist and auditors.** We won't need bright space for anything except lab recordings. If you feel you need bright space access and don't have it, please add your email to this [spreadsheet](https://docs.google.com/spreadsheets/d/12xuNgQ17GiTM6W4GulXkqF78kbR8qX-MFooYcPksUQ0/edit?usp=sharing). We will add the emails from the spreadsheet periodically.
 
 **Course numbers**:  
 DS-GA 1016 (Data Science)  
 PSYCH-GA 3405.004 (Psychology)  
 
 **Contact information and EdStem**:  
-The [class EdStem page](https://edstem.org/us/courses/35462/discussion/) is the main point of contact. We use EdStem for questions and class discussion. Rather than emailing questions to the teaching staff, please post your questions on EdStem. It will get you a faster response and the answer will benefit others with the same question.
+The [class EdStem page](https://edstem.org/us/courses/35462/discussion/) is the main point of contact. We use EdStem for questions and class discussions. Rather than emailing questions to the teaching staff, please post your questions on EdStem. It will get you a faster response and the answer will benefit others with the same question.
 
 Enrolled students should automatically have access to the EdStem. If for whatever reason this isn't the case for you, a signup link for our EdStem page is available here ([https://edstem.org/us/join/hnpyuz](https://edstem.org/us/join/hnpyuz)).
 
@@ -29,19 +29,19 @@ If you have a question that isn't suitable for EdStem and there is a need to ema
 Default is in person, but email us to request zoom if need be.  
 Brenden Lake (Thursdays (starting Feb. 2), 4:30-5:30pm, 60 5th Ave. (CDS) Room 610)  
 Todd Gureckis (Tuesdays 1-2pm in 4 Washington Pl (Meyer) 863 (although office moving soon; check))  
-Pat Little (Wednesdays 1:30-2:30pm in Meyer 863 (although office moving soon; check here for update))  
+Pat Little (Wednesdays 1:30-2:30pm in Meyer 863 (although the office moving soon; check here for an update))  
 Francesco Mantegna (Wednesdays 3:30-4:30pm in Meyer 207)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
-The lectures cover artificial neural networks (deep learning), reinforcement learning, Bayesian modeling, model comparison and fitting, classification, probabilistic graphical models, and program induction. Modeling examples span a broad set of psychological abilities including learning, categorization, language, memory, decision making, and reasoning. The homework assignments include examining and implementing the models surveyed in class. Students will leave the course with a richer understanding of how computational modeling advances cognitive science, how cognitive science can inform research in machine learning and AI, and how to fit and evaluate cognitive models to understand behavioral data.
+The lectures cover artificial neural networks (deep learning), reinforcement learning, Bayesian modeling, model comparison and fitting, classification, probabilistic graphical models, and program induction. Modeling examples span a broad set of psychological abilities including learning, categorization, language, memory, decision-making, and reasoning. The homework assignments include examining and implementing the models surveyed in class. Students will leave the course with a richer understanding of how computational modeling advances cognitive science, how cognitive science can inform research in machine learning and AI, and how to fit and evaluate cognitive models to understand behavioral data.
 
 Please note that this syllabus is not final and there may be further adjustments.
 
 ## Pre-requisites
-- Math: We will use concepts from linear algebra, calculus, and probability. If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. Familiarity with probability is also assumed. We will review some of the basic technical concepts in lab.
+- Math: We will use concepts from linear algebra, calculus, and probability. If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. Familiarity with probability is also assumed. We will review some of the basic technical concepts in the lab.
 
-- Programming: Previous experience with Python is required. Previous IN CLASS experience with Python is strongly recommend---it’s assumed you know how to program in Python. The assignments will use Python 3 and [Jupyter Notebooks](http://jupyter.org).
+- Programming: Previous experience with Python is required. Previous IN CLASS experience with Python is strongly recommended ---it’s assumed you know how to program in Python. The assignments will use Python 3 and [Jupyter Notebooks](http://jupyter.org).
 
 ## Grading
 The final grade is based on the homeworks (65%) and the final project (35%).   
@@ -53,11 +53,11 @@ The final project proposal is due April 10 (0.5 pages written). Please submit vi
 
 The final project is due May 10. Please submit via email to instructors-ccm-spring2023@googlegroups.com **with the file name lastname1-lastname2-lastname3-ccm-final.pdf**. Make sure to include the names of all of your group members at the top of the document too.
 
-The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
+The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either a substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course, you do not have to choose from this list.
 
 **The final project must relate to computational cognitive modeling and cannot be a purely machine learning / data science project.** Thus, your project must connect, in some way, to the human mind and behavior. This could be collecting (informally) behavioral data to compare your computational model to. Or you could compare your model against results in the literature or particular dataset of human behavior or ratings. Or you could compare your algorithm with human intelligence in a more abstract sense. There are many ways to make the connection, but your final project must connect to cognitive modeling.
 
-Write-ups should be organized and written as a scientific paper. We encourage you to use this [latex template](https://dearmond.sharepoint.com/:f:/g/ExternalSharing/EkPg3O2j_z5IlfOZVeVgokEBIWGnSOwwaCWRc8a2hNwT2g?e=dzUT29). It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. Here is a good example:   
+Your write-ups should be organized and written as a scientific paper. We encourage you to use this [latex template](https://dearmond.sharepoint.com/:f:/g/ExternalSharing/EkPg3O2j_z5IlfOZVeVgokEBIWGnSOwwaCWRc8a2hNwT2g?e=dzUT29). It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. Here is a good example:   
 Singh, P., Peterson, J. C., Battleday, R. M., & Griffiths, T. L. (2020). End-to-end deep prototype and exemplar models for predicting human behavior. Proceedings of the 42nd Annual Conference of the Cognitive Science Society. [link here](https://arxiv.org/abs/2007.08723)
 
 Code submission is not required for the final project.
@@ -73,7 +73,7 @@ Live lectures are
 - Mon. Feb. 6: Neural networks / Deep learning (part 2)
 ([slides](slides/lecture-03-neural_nets.pdf))
 - Mon. Feb. 13: Reinforcement learning (part 1)
-<!-- ([slides](slides/lecture-04-reinforcementlearning.pdf)) -->
+([slides](slides/lecture-04-reinforcementlearning.pdf))
 - Mon. Feb. 20: No class, Presidents' Day
 - Mon. Feb. 27: Reinforcement learning (part 2)
 <!-- ([slides](slides/lecture-05-reinforcementlearning.pdf)) -->
@@ -126,7 +126,7 @@ Tuesdays 12:30-1:20PM (in person or zoom)
 - Tue May 9, No class
 
 ## Readings
-For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the course of the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on EdStem website under the "resources" tab (see the down pointing arrow along the top bar or [this link](https://edstem.org/us/courses/35462/resources)).
+For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on EdStem website under the "resources" tab (see the down-pointing arrow along the top bar or [this link](https://edstem.org/us/courses/35462/resources)).
 
 **Neural networks and deep learning**
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
@@ -177,23 +177,22 @@ Brains, Minds and Machines (CBMM).
 ## Course policies and FAQ
 
 **Collaboration and honor code**:  
-We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral. You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other’s code or write ups, or code/write-ups from previous years of this course. Do not share your write up or code with any of your classmates under any circumstances.
+We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and a possible disciplinary referral. You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups **for the **homework** on your** own.** Under no circumstance should students look at each other’s code or write-ups, or code/write-ups from previous years of this course. Do not share your write-up or code with any of your classmates under any circumstances.
 
 **Late work**:  
-We will take off 10% for each day a homework or final project is late. Assignments should be turned in all-at-once and not in pieces. If an assignment is incomplete and later completed, the late penalty is applied to the entire assignment.
+We will take 10% off each day a homework or final project is late. Assignments should be turned in all at once and not in pieces. If an assignment is incomplete and later completed, the late penalty is applied to the entire assignment.
 
 **Extensions**:  
-If you are requesting an extension, email the teaching team (instructors-ccm-spring2023@googlegroups.com) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment.
+If you are requesting an extension, email the teaching team (instructors-ccm-spring2023@googlegroups.com) and explain the reason. You must submit a request for an extension at least 24 hours before the due date of the assignment.
 
 **Regrading**:  
-If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds. You can submit a regrade request via gradescope.
+If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds. You can submit a regrade request via Gradescope.
 
 **Did you forget to turn in part of the homework, or did it print improperly on the PDF?**:  
-**We will not regrade a homework because your answer did not display correctly in the version you submitted.** Before turning in your assignment, you must double check that all of your answers appear clearly in the PDF printout. 
+**We will not regrade homework because your answer did not display correctly in the version you submitted.** Before turning in your assignment, you must double-check that all of your answers appear clearly in the PDF printout. 
 
 **Extra credit**:  
 No extra credit will be given, out of interest of fairness.
 
 ## Preconfigured cloud environment
-Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids.
-[here](https://dsgs-3001006-spring.rcnyu.org/).
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](https://https://dsgs-3001006-spring.rcnyu.org). 
