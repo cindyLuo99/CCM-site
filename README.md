@@ -28,8 +28,8 @@ If you have a question that isn't suitable for EdStem and there is a need to ema
 **Office hours**:  
 Default is in person, but email us to request zoom if need be.  
 Brenden Lake (Thursdays (starting Feb. 2), 4:30-5:30pm, 60 5th Ave. (CDS) Room 610)  
-Todd Gureckis (Tuesdays 1-2pm in 4 Washington Pl (Meyer) 863 (although office moving soon; check))  
-Pat Little (Wednesdays 1:30-2:30pm in Meyer 863 (although the office moving soon; check here for an update))  
+Todd Gureckis (Tuesdays 1-2pm in 4 Washington Pl (Meyer) 590)  
+Pat Little (Wednesdays 1:30-2:30pm in Meyer 592)  
 Francesco Mantegna (Wednesdays 3:30-4:30pm in Meyer 207)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
@@ -76,10 +76,10 @@ Live lectures are
 ([slides](slides/lecture-04-reinforcementlearning.pdf))
 - Mon. Feb. 20: No class, Presidents' Day
 - Mon. Feb. 27: Reinforcement learning (part 2)
-<!-- ([slides](slides/lecture-05-reinforcementlearning.pdf)) -->
+([slides](slides/lecture-05-reinforcementlearning.pdf))
   - Homework 2 assigned (Due 3/20) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Mar. 6: Reinforcement learning (part 3)
-<!-- ([slides](slides/lecture-06-reinforcementlearning.pdf)) -->
+([slides](slides/lecture-06-reinforcementlearning.pdf))
 - Mon. Mar. 13: No class, Spring break
 - Mon. Mar 20: Bayesian modeling (part 1)
 <!-- ([slides](slides/lecture-07+08-bayesian_modeling.pdf)) -->
@@ -186,7 +186,7 @@ We will take 10% off each day a homework or final project is late. Assignments s
 If you are requesting an extension, email the teaching team (instructors-ccm-spring2023@googlegroups.com) and explain the reason. You must submit a request for an extension at least 24 hours before the due date of the assignment.
 
 **Regrading**:  
-If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds. You can submit a regrade request via Gradescope.
+If you feel there was a mistake in the grading of your assignment, **you can formally request a regrade through Gradescope**. This will prompt us to regrade the full portion of the assignment and could lead to your grade being either raised or lowered depending on what the regrade finds. You can submit a regrade request via Gradescope.
 
 **Did you forget to turn in part of the homework, or did it print improperly on the PDF?**:  
 **We will not regrade homework because your answer did not display correctly in the version you submitted.** Before turning in your assignment, you must double-check that all of your answers appear clearly in the PDF printout. 
