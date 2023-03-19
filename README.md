@@ -81,11 +81,9 @@ Live lectures are
 - Mon. Mar. 6: Reinforcement learning (part 3)
 ([slides](slides/lecture-06-reinforcementlearning.pdf))
 - Mon. Mar. 13: No class, Spring break
-- Mon. Mar 20: Bayesian modeling (part 1)
-<!-- ([slides](slides/lecture-07+08-bayesian_modeling.pdf)) -->
+- Mon. Mar 20: Bayesian modeling (part 1)([slides](https://www.dropbox.com/s/m30ykspfoku9muj/lecture-07%2B08-bayesian_modeling.pdf?dl=0))
   - Homework 3 assigned (Due 4/3) (instructions for accessing [here](retrieving_hw.md))
-- Mon. Mar 27: Bayesian modeling (part 2)
-<!-- (same slides as part 1) -->
+- Mon. Mar 27: Bayesian modeling (part 2)(same slides as part 1)
 - Mon. Apr 3: Model comparison and fitting, tricks of the trade
 <!-- ([slides](slides/lecture-09-modelfit.pdf)) -->
 - Mon. Apr 10: Categorization
@@ -195,4 +193,4 @@ If you feel there was a mistake in the grading of your assignment, **you can for
 No extra credit will be given, out of interest of fairness.
 
 ## Preconfigured cloud environment
-Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](https://https://dsgs-3001006-spring.rcnyu.org). 
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](https://dsgs-3001006-spring.rcnyu.org). 
