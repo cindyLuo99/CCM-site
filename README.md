@@ -116,8 +116,8 @@ Tuesdays 12:30-1:20PM (in person or zoom)
 - Tues Mar 14, No lab, spring break 
 - Tue Mar 21, Probability Review
 - Tue Mar 28, HW 3 Review
-- Tue Apr 4, TBD
-- Tue Apr 11, TBD
+- Tue Apr 4, No lab
+- Tue Apr 11, No lab
 - Tue Apr 18, HW 4 Review
 - Tue Apr 25, TBD
 - Tue May 2, TBD
