@@ -115,8 +115,8 @@ Tuesdays 12:30-1:20PM (in person or zoom)
 - Tue Apr 4, No lab
 - Tue Apr 11, No lab
 - Tue Apr 18, HW 4 Review
-- Tue Apr 25, TBD
-- Tue May 2, TBD
+- Tue Apr 25, No lab
+- Tue May 2, No lab
 - Tue May 9, No class
 
 ## Readings
