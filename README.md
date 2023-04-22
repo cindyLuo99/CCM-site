@@ -81,20 +81,16 @@ Live lectures are
 - Mon. Mar. 6: Reinforcement learning (part 3)
 ([slides](slides/lecture-06-reinforcementlearning.pdf))
 - Mon. Mar. 13: No class, Spring break
-- Mon. Mar 20: Bayesian modeling (part 1)([slides](https://www.dropbox.com/s/m30ykspfoku9muj/lecture-07%2B08-bayesian_modeling.pdf?dl=0))
+- Mon. Mar 20: Bayesian modeling (part 1)([slides](slides/lecture-07%2B08-bayesian_modeling.pdf?dl=0))
   - Homework 3 assigned (Due 4/3) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Mar 27: Bayesian modeling (part 2)(same slides as part 1)
-- Mon. Apr 3: Model comparison and fitting, tricks of the trade
-<!-- ([slides](slides/lecture-09-modelfit.pdf)) -->
-- Mon. Apr 10: Categorization
-<!-- ([slides](slides/lecture-10-categorization.pdf)) -->
+- Mon. Apr 3: Model comparison and fitting, tricks of the trade ([slides](slides/lecture-09-modelfit.pdf)) 
+- Mon. Apr 10: Categorization ([slides](slides/lecture-10-categorization.pdf))
   - Project proposal is due
-  - Homework 4 assigned (Due 4/24) (instructions for accessing [here](retrieving_hw.md))
-- Mon. Apr 17: Probabilistic Graphical models
-<!-- ([slides](slides/lecture-11-graphical_models.pdf)) -->
+  - Homework 4 assigned (Due 4/27) (instructions for accessing [here](retrieving_hw.md))
+- Mon. Apr 17: Probabilistic Graphical models ([slides](slides/lecture-11-graphical_models.pdf))
 - Mon. Apr 24: Information sampling and active learning
 <!-- ([slides](slides/lecture-12-activelearning.pdf)) -->
-  - Homework 5 assigned (Due TBD)
 - Mon May 1: Program induction and language of thought models
 <!-- ([slides](slides/lecture-13-program_induction.pdf)) -->
 - Mon May 8: Computational Cognitive Neuroscience
@@ -119,8 +115,8 @@ Tuesdays 12:30-1:20PM (in person or zoom)
 - Tue Apr 4, No lab
 - Tue Apr 11, No lab
 - Tue Apr 18, HW 4 Review
-- Tue Apr 25, TBD
-- Tue May 2, TBD
+- Tue Apr 25, No lab
+- Tue May 2, No lab
 - Tue May 9, No class
 
 ## Readings
