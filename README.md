@@ -89,8 +89,7 @@ Live lectures are
   - Project proposal is due
   - Homework 4 assigned (Due 4/27) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Apr 17: Probabilistic Graphical models ([slides](slides/lecture-11-graphical_models.pdf))
-- Mon. Apr 24: Information sampling and active learning
-<!-- ([slides](slides/lecture-12-activelearning.pdf)) -->
+- Mon. Apr 24: Information sampling and active learning ([slides](slides/lecture-12-activelearning.pdf)) 
 - Mon May 1: Program induction and language of thought models
 <!-- ([slides](slides/lecture-13-program_induction.pdf)) -->
 - Mon May 8: Computational Cognitive Neuroscience
